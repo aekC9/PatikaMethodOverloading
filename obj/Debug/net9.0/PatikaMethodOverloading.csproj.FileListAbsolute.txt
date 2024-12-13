@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\bin\Debug\net9.0\PatikaMethodOverloading.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\bin\Debug\net9.0\PatikaMethodOverloading.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\bin\Debug\net9.0\PatikaMethodOverloading.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\bin\Debug\net9.0\PatikaMethodOverloading.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\bin\Debug\net9.0\PatikaMethodOverloading.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\refint\PatikaMethodOverloading.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\PatikaMethodOverloading.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaMethodOverloading\obj\Debug\net9.0\ref\PatikaMethodOverloading.dll
